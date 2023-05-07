@@ -1,0 +1,102 @@
+1682518404715	geckodriver	INFO	Listening on 127.0.0.1:59964
+1682518407779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofileLK1Bn6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682518409106	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682518409125	Marionette	INFO	Listening on port 59972
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1682518409652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofileLK1Bn6\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1682525146419	Marionette	INFO	Stopped listening on port 59972
+Dynamically enable window occlusion 1
+1682525154072	geckodriver	INFO	Listening on 127.0.0.1:62391
+1682525157175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofile78RJ2l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682525158030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682525158042	Marionette	INFO	Listening on port 62399
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1682525158391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofile78RJ2l\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1682525552765	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1682525614199	Marionette	INFO	Stopped listening on port 62399
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 10036, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1682973054997	geckodriver	INFO	Listening on 127.0.0.1:55881
+1682973058069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofile7c5kBo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682973058877	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682973058890	Marionette	INFO	Listening on port 55889
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1682973059482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofile7c5kBo\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1682974902960	Marionette	INFO	Stopped listening on port 55889
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 14420, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1683141150259	geckodriver	INFO	Listening on 127.0.0.1:63881
+1683141153381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofile5wzyND"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683141154248	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683141154262	Marionette	INFO	Listening on port 63889
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1683141154583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofile5wzyND\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1683168555577	Marionette	INFO	Stopped listening on port 63889
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1683168778463	geckodriver	INFO	Listening on 127.0.0.1:49987
+1683168781571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofileaqTGQp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683168782001	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683168782009	Marionette	INFO	Listening on port 49995
+1683168782176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Warning: unrecognized command line flag -foreground\n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofileaqTGQp\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\rosan\AppData\Local\Temp\rust_mozprofileaqTGQp\bookmarkbackups\bookmarks-2023-05-04.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\rosan\AppData\Local\Temp\rust_mozprofileaqTGQp\bookmarkbackups\bookmarks-2023-05-04.jsonlz4) because it does not exist
+1683209695618	Marionette	INFO	Stopped listening on port 49995
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1683331777165	geckodriver	INFO	Listening on 127.0.0.1:56389
+1683331780286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofileKnRMaX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683331781313	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683331781325	Marionette	INFO	Listening on port 56397
+1683331781658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: "Warning: unrecognized command line flag -foreground\n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofileKnRMaX\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+1683335891282	Marionette	INFO	Stopped listening on port 56397
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1683424347251	geckodriver	INFO	Listening on 127.0.0.1:50573
+1683424350369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofileCkcnZK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683424351301	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683424351314	Marionette	INFO	Listening on port 50581
+1683424351483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: "Warning: unrecognized command line flag -foreground\n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rosan\\AppData\\Local\\Temp\\rust_mozprofileCkcnZK\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
